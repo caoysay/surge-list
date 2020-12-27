@@ -1,4 +1,4 @@
-# surge-list
+# Surge-list
 
 一些有用的规则集。
 
