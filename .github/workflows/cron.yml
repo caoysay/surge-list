@@ -41,8 +41,8 @@ jobs:
         uses: EndBug/add-and-commit@v5
         with:
           add: 'domain-set'
-          author_name: Roy Li
-          author_email: me@dada.li
+          author_name: caoysay
+          author_email: 50225770+caoysay@users.noreply.github.com
           message: 'auto update'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
