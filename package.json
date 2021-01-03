@@ -2,8 +2,8 @@
   "name": "surge-list",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:geekdada/surge-list.git",
-  "author": "Roy Li <me@dada.li>",
+  "repository": "git@github.com:caoysay/surge-list.git",
+  "author": "caoysay<50225770+caoysay@users.noreply.github.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
