@@ -133,8 +133,6 @@
 .f.zgbmw.com.cn
 .83.locksmaker.com.cn
 .yqrta.xyz
-.cloudpsvn.com
-.shukongshebei.net
 .00-gov.cn
 .0024aaaa.com
 .00880808.com
@@ -761,6 +759,7 @@
 .claz.com.cn
 .climbcoder.com
 .cloudad.asia
+.cloudpsvn.com
 .cmaxisolation.com
 .cmslayue.com
 .cnbole.net
@@ -1923,6 +1922,7 @@
 .shuccn.com
 .shuihulu.com
 .shujuwu.com
+.shukongshebei.net
 .shuwuzhan.com
 .shxinjie.cn
 .shypqc.com
@@ -2700,6 +2700,7 @@
 .ad-img.diyidan.net
 .ad.52av.one
 .ad.bobi.tw
+.ad.ccement.com
 .ad.cdnjm.cn
 .ad.walkgame.com
 .ad.wurangxian.top
@@ -2951,7 +2952,6 @@
 .z.nowscore.com
 .zt2088.com
 .ztyumn.ifeng.com
-.ad.ccement.com
 .immedlinkum.info
 .xayah.date
 .003store.com
@@ -3757,6 +3757,7 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.wfaffwshop.xyz
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
