@@ -3303,13 +3303,13 @@
 .dm.wenshenxiu.com
 .dm.zuowenku.net
 .dm1.ddwk8.cn
-.dm1.dnpz123.com
 .dm1.guanwawa.com
 .dm1.zjydt.com
 .dmm.aizhan.com
 .dmr.cnhoney.com
 .dmym.aixyy.com
 .dn*.ixinwei.com
+.dnpz123.com
 .du1.bbdj.com
 .dudm.qingsj.cn
 .dyscb.cn
@@ -3757,7 +3757,6 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
-.wfaffwshop.xyz
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
@@ -4064,7 +4063,7 @@
 .babalink.top
 .baful.net
 .bahu.xyz
-.baidu.bxwx666.org
+.baidu.bxwx555.org
 .baiduspider1.cn
 .bailequan.net.cn
 .baitaoidc.com
@@ -5268,6 +5267,7 @@
 .r2wm5.cn
 .r3wd6.cn
 .raeqqe.cn
+.ranqibio.com
 .rbign.cn
 .rbtjkx.cn
 .rbywg.com
@@ -5626,6 +5626,7 @@
 .wenlang.com
 .wenzhougy.cn
 .wervp.com
+.wfaffwshop.xyz
 .wfslj.cn
 .wfxoi.xyz
 .wfyqc.com
