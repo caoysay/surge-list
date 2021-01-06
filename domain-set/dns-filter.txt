@@ -1,3 +1,7 @@
+.saguvacu.xyz
+.adcryp.to
+.bitcointraffic.ltd
+.laidauni.com
 .rapgasyogin.com
 .top-performance.best
 .anomaloustradingmerciful.com
@@ -11694,6 +11698,7 @@
 .varylioness.com
 .vasgenerete.site
 .vashoaft.net
+.vasstycom.com
 .vatname.info
 .vatskaylittl.club
 .vaultwrite.com
@@ -18763,6 +18768,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.log.perfecttitspics.com
 .analytics.mbga.jp
 .herald.loginside.co.kr
 .log002.commutil.kr
@@ -20499,7 +20505,6 @@
 .tr.junaroad.com
 .tracker.shopclues.com
 .beacon.itmedia.jp
-.d3j1weegxvu8ns.cloudfront.net
 .trk.performanceplay.co.kr
 .atlas1.krone.at
 .spr.bild.de
@@ -21079,6 +21084,8 @@
 .register.appsflyer.com
 .events.appsflyer.com
 .track.appsflyer.com
+.smetrics.aem.playstation.com
+.telemetry.api.playstation.com
 .trk2.pinterest.com
 .mobiletelemetry.ebay.com
 .tracker.departapp.com
@@ -21846,6 +21853,7 @@
 .christiantop1000.com
 .christmalicious.com
 .chrumedia.com
+.chtbl.com
 .cintnetworks.com
 .circular-counters.com
 .ck-cdn.com
@@ -23014,6 +23022,7 @@
 .perfdrive.com
 .perfectaudience.com
 .perfiliate.com
+.perfops.io
 .performancerevenues.com
 .performtracking.com
 .perimeterx.net
@@ -24962,6 +24971,7 @@
 .d25ezbwokoefx6.cloudfront.net
 .d28g9g3vb08y70.cloudfront.net
 .d2as12kgjg8gw5.cloudfront.net
+.d2axgrpnciinw7.cloudfront.net
 .d2cpw6kwpff7n5.cloudfront.net
 .d2gbtcuv3w9qyv.cloudfront.net
 .d2ibu2ug0mt5qp.cloudfront.net
@@ -24987,6 +24997,7 @@
 .d3cgm8py10hi0z.cloudfront.net
 .d3cxv97fi8q177.cloudfront.net
 .d3iouejux1os58.cloudfront.net
+.d3j1weegxvu8ns.cloudfront.net
 .d3kyk5bao1crtw.cloudfront.net
 .d3l3lkinz3f56t.cloudfront.net
 .d3m6sept6cnil5.cloudfront.net
@@ -25047,6 +25058,7 @@
 .ecommstats.s3.amazonaws.com
 .edge.bredg.com
 .edge.sqweb.com
+.entitlement.auth.adobe.com
 .errors.snackly.co
 .event-api.contactatonce.co.uk
 .event-api.contactatonce.com.au
@@ -25055,6 +25067,7 @@
 .event.api.drift.com
 .event.getblue.io
 .event.syndigo.cloud
+.event.webcollage.net
 .eventapi.libring.com
 .eventgateway.soundcloud.com
 .eventlog.inspsearchapi.com
@@ -25488,6 +25501,7 @@
 .tc.airfrance.com
 .tcheck.outbrainimg.com
 .te.supportfreecontent.com
+.telemetrics.klaviyo.com
 .telemetry.api.wmcdp.io
 .telemetry.reembed.com
 .telemetry.soundcloud.com
@@ -25690,15 +25704,22 @@
 .7q1z79gxsi.global.ssl.fastly.net
 .clarium.global.ssl.fastly.net
 .dfapvmql-q.global.ssl.fastly.net
+.beyondsecurity.com
 .cyveillance.com
+.medals.bizrate.com
 .nsg.symantec.com
 .privacy-policy.truste.com
+.scanverify.com
+.seal.digicert.com
 .seal.godaddy.com
 .seal.networksolutions.com
+.seal.qualys.com
 .seal.verisign.com
 .secure.trust-guard.com
+.securitymetrics.com
 .shopperapproved.com
 .siteintercept.allegiancetech.com
+.verify.authorize.net
 .websecurity.norton.com
 .widget.trustpilot.com
 .widgets.trustedshops.com
@@ -36344,6 +36365,11 @@
 .runkao.net
 .stunninglover.com
 .watakaw133.xyz
+.xiangyuym.cn
+.qgdvyvd.cn
+.wxebgpj.cn
+.2shol4.cn
+.1221dhb.xyz
 .01w47q.cn
 .0217qpineuxbcdhopswkvf.xyz
 .0224fqpowiuxybnmvdfghj.xyz
